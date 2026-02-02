@@ -75,4 +75,3 @@ OUTPUT:
 
 <img width="1439" height="123" alt="Image" src="https://github.com/user-attachments/assets/80397fe7-0b24-4986-a2de-d5f95d0b2299" />
 
-<img width="1439" height="123" alt="Image" src="https://github.com/user-attachments/assets/4ba067e5-bbf5-42d2-8c03-816308fc20bf" />
