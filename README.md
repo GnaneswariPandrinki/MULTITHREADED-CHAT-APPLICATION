@@ -70,3 +70,7 @@ enhancements make the project more realistic and suitable for advanced learning.
 Overall, this Multithreaded Chat Application provides a strong foundation for building network-based applications in Java. By working on both the client and server sides, developers gain practical experience in 
 
 handling concurrent users and designing efficient communication systems.
+
+OUTPUT:
+
+<img width="1439" height="123" alt="Image" src="https://github.com/user-attachments/assets/80397fe7-0b24-4986-a2de-d5f95d0b2299" />
